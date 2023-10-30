@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "src": "https://assets.tatacliq.com/medias/sys_master/images/49055598313502.jpg",
+      "alt": "Image 1",
+      "caption": "Beautiful Scenery 1"
+    },
+    {
+      "id": 2,
+      "src": "https://assets.tatacliq.com/medias/sys_master/images/49055598116894.jpg",
+      "alt": "Image 2",
+      "caption": "Beautiful Scenery 2"
+    },
+    {
+      "id": 3,
+      "src": "https://assets.tatacliq.com/medias/sys_master/images/49018891272222.jpg",
+      "alt": "Image 3",
+      "caption": "Beautiful Scenery 3"
+    },
+    {
+      "id": 4,
+      "src": "https://assets.tatacliq.com/medias/sys_master/images/49018890944542.jpg",
+      "alt": "Image 3",
+      "caption": "Beautiful Scenery 3"
+    },
+    {
+      "id": 5,
+      "src": "https://assets.tatacliq.com/medias/sys_master/images/49055124062238.jpg",
+      "alt": "Image 3",
+      "caption": "Beautiful Scenery 3"
+    }
+  ]
+  
+  
