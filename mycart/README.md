@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="URL_TO_YOUR_LOGO_IMAGE" alt="MyCart Logo">
+  <img src="https://raw.githubusercontent.com/ErSndubey/MyCart/main/mycart/src/components/Images/MyCart-logo.png" alt="MyCart Logo">
+  <img src="https://github.com/ErSndubey/MyCart/blob/main/mycart/src/components/Images/logoText.png?raw=true" alt="MyCart Logo">
 </p>
 
 # Welcome to MyCart 🛒
@@ -37,8 +38,8 @@ MyCart is open-source and licensed under the MIT License. See [LICENSE.md](LICEN
 
 ## Let's Connect
 
-- **Your Name**
-- **Your Email**
-- **Project Link**
+- **Sachchidanand Dubey**
+- **ersndubey@gmail.com**
+- **https://www.linkedin.com/in/ersndubey/**
 
 Don't hesitate to get in touch if you have questions, or suggestions, or want to chat about front-end development. MyCart is a collaborative canvas, and your contributions are warmly welcomed!
