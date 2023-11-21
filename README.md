@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ErSndubey/MyCart/main/mycart/src/components/Images/MyCart-logo.png" alt="MyCart Logo">
   <img src="https://github.com/ErSndubey/MyCart/blob/main/mycart/src/components/Images/logoText.png?raw=true" alt="MyCart Logo">
-
-
-  <img src="https://github.com/ErSndubey/MyCart/blob/main/mycart/src/components/Images/logoText.png?raw=true" alt="MyCart Logo"></p>
+</p>
 
 # Welcome to MyCart 🛒
 
